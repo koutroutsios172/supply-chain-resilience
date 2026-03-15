@@ -1,0 +1,14 @@
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+httpx<0.28
+langchain==0.2.6
+langchain-openai==0.1.13
+langchain-chroma==0.1.1
+chromadb==0.5.3
+pypdf==4.2.0
+python-multipart==0.0.9
+pydantic==2.7.4
+openai==1.35.3
+python-dotenv==1.0.1
+langchain-community==0.2.6
+langchain-text-splitters==0.2.2
