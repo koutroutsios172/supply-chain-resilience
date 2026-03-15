@@ -271,4 +271,4 @@ See you at the pitch.
 ---
 
 *Built for the AI Knowledge Base System Hackathon — March 2026*
-*Team: [Your names here]*
+*Team: George Koutroutsios*
