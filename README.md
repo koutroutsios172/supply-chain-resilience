@@ -270,5 +270,7 @@ See you at the pitch.
 
 ---
 
+🎥 **[Click here to watch our 2-minute Demo Video](https://drive.google.com/file/d/1PmgrjvMfQm_IGGgkhUkJGTzX4wDF1rZE/view?usp=sharing)**
+
 *Built for the AI Knowledge Base System Hackathon — March 2026*
 *Team: George Koutroutsios*
